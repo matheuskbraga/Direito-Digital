@@ -1,0 +1,18 @@
+COMPLIANCE
+
+Compliance em TI refere-se ao conjunto de políticas, procedimentos e controles implementados para garantir que a empresa esteja em conformidade com as leis, regulamentos e padrões aplicáveis ao uso da tecnologia da informação1. Em outras palavras, o compliance em TI busca assegurar que as práticas e processos relacionados à tecnologia estejam alinhados com normas do mercado, legislação e padrões internos e externos.
+
+A importância do compliance em TI está em maximizar a confiabilidade das rotinas corporativas, evitar erros e contribuir para a credibilidade da marca. Ele não apenas garante que a empresa esteja seguindo as regras, mas também otimiza a qualidade dos processos de proteção de dados e segurança digital.
+
+--------------------------------------------------------------------------------------------------------------
+
+O compliance em TI envolve a conformidade com normas, regulamentos e padrões específicos na área de tecnologia da informação. Aqui estão alguns exemplos de práticas de compliance em TI:
+
+
+1. Lei Geral de Proteção de Dados (LGPD)
+2. Segurança da Informação
+3. Legislação Trabalhista
+4. Marco Civil da Internet
+5. ISO 27001
+6. COBIT
+7. ITIL (Information Technology Infrastructure Library)
